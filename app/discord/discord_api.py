@@ -1,6 +1,5 @@
 from dotenv import load_dotenv
 import discord
-from enum import Enum
 import os
 from app.chatgpt_ai.openai import chatgpt_response, chatgpt_image
 import asyncio
